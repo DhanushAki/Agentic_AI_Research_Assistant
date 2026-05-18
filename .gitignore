@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv/
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+chroma_db/
+data/
+*.png
+.gemini/
+.DS_Store
+
+# Logs
+*.log
