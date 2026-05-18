@@ -66,5 +66,3 @@ rm -rf ./chroma_db/*
 # Run the test suite (requires local python environment)
 python3 -m tests.test_suite
 ```
-## 📅 Roadmap
-Currently in **Phase 4: Scaling & Strategic Operations (Day 17)**. See `GEMINI.md` for the full 30-day journey.
